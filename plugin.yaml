@@ -1,0 +1,5 @@
+api_version: 1
+name: lerd-project-archive
+version: 0.0.0-concept
+description: Concept d'archivage froid et de restauration de projets
+docs: DOCS.md
